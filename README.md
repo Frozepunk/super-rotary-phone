@@ -1,1 +1,1 @@
-# AIM --> A human-readable cybersecurity scripting language could make security automation more accessible while maintaining power and flexibility.
+### A human-readable cybersecurity scripting language could make security automation more accessible while maintaining power and flexibility.
